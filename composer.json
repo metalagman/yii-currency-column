@@ -1,0 +1,18 @@
+{
+    "name": "lagman/yii-currency-column",
+    "description": "Currency column for Yii TbGridView",
+    "keywords": ["yii", "gridview", "column", "currency"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexey Samoylov",
+            "email": "alexey.samoylov@gmail.com",
+            "homepage": "http://yiiblog.ru"
+        }
+    ],
+    "type": "yii-extension",
+    "require": {
+        "php": ">=5.4.0",
+		"yiisoft/yii": "*"
+    }
+}
